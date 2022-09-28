@@ -1,0 +1,7 @@
+env/
+.env
+
+media/
+video/
+output/
+mobilenet_ssd/
